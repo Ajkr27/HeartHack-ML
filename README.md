@@ -1,6 +1,5 @@
-Bilkul! Yahan pe main wo **content** de raha hoon jo tu **directly copy** kar sakta hai apne **GitHub** repository ke **README.md** file mein:
 
----
+
 
 ```markdown
 # 💓 HeartIQ: Machine Learning Based Heart Disease Prediction
@@ -98,12 +97,4 @@ The primary goal of this project is to predict the presence or absence of heart 
 
 ### 📄 **License**
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-```
 
----
-
-**Instructions**: 
-1. Isse **README.md** file mein daal de apne repository ke root folder mein.
-2. `yourusername` ko apne **GitHub username** se replace kar le.
-
-Ab tu easily apne project ko GitHub pe showcase kar sakta hai!
